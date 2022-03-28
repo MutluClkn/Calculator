@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Calculator
 //
-//  Created by Mutlu Calkan on 8.02.2022.
+//  Created by Mutlu Calkan on 9.02.2022.
 //  Copyright 2022 mutluclkn
 
 import UIKit
